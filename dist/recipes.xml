@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE RecipeTable SYSTEM "./recipes.dtd"> -->
+
+<RecipeTable>
+	<!-- CONSTRUCTION BLOCKS -->
+	<Recipe>
+		<Outcome qt="1">WoodenPickaxe</Outcome>
+		<Ingredient qt="2">Stick</Ingredient>
+		<Ingredient qt="3">WoodenPlank</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="4">WoodenPlank</Outcome>
+		<Ingredient qt="1">WoodLog</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="4">Stick</Outcome>
+		<Ingredient qt="2">WoodenPlank</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="1">Chest</Outcome>
+		<Ingredient qt="8">WoodenPlank</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="1">CraftingTable</Outcome>
+		<Ingredient qt="4">WoodenPlank</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="1">StonePickaxe</Outcome>
+		<Ingredient qt="3">Cobblestone</Ingredient>
+		<Ingredient qt="2">Stick</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="1">Oven</Outcome>
+		<Ingredient qt="8">Cobblestone</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="4">Torch</Outcome>
+		<Ingredient qt="1">Coal</Ingredient>
+		<Ingredient qt="1">Stick</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="6">WoodenSlab</Outcome>
+		<Ingredient qt="3">WoodenPlank</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="1">OldArmorStand</Outcome>
+		<Ingredient qt="1">WoodenSlab</Ingredient>
+		<Ingredient qt="2">Stick</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="1">NewArmorStand</Outcome>
+		<Ingredient qt="1">StoneSlab</Ingredient>
+		<Ingredient qt="6">Stick</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="6">StoneSlab</Outcome>
+		<Ingredient qt="3">Stone</Ingredient>
+	</Recipe>
+	<Recipe>
+		<Outcome qt="1">Stone</Outcome>
+		<Ingredient qt="1">Cobblestone</Ingredient>
+	</Recipe>
+
+	<Resource>WoodLog</Resource>
+	<Resource>Cobblestone</Resource>
+	<Resource>Coal</Resource>
+</RecipeTable>
